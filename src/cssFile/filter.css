@@ -1,0 +1,8 @@
+.expand {
+  position: absolute;
+  z-index: 1;
+  background-color: #fff;
+  width: 100%;
+  color: #666;
+  font-size: 0.92857rem;
+}

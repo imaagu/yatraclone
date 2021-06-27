@@ -1,0 +1,142 @@
+#box2 {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding: 2.143rem 3.214rem;
+}
+
+.box2 {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding: 2.143rem 3.214rem;
+}
+
+#rs1 {
+  background-color: #d3d3d3;
+  font-size: 10px;
+  border-radius: 6px;
+}
+
+.rs1 {
+  background-color: #d3d3d3;
+  font-size: 10px;
+  border-radius: 6px;
+}
+
+#box3 {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding: 1.143rem 1.214rem;
+}
+
+.box3 {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding: 1.143rem 1.214rem;
+}
+
+#fs10 {
+  font-size: 1.429rem;
+
+  font-family: Rubik-Medium;
+}
+
+.fs10 {
+  font-size: 1.429rem;
+
+  font-family: Rubik-Medium;
+}
+
+#fs11 {
+  font-size: 0.8571rem;
+  color: #333;
+  font-family: Rubik-Regular, Arial, Helvetica, sans-serif;
+}
+
+.fs11 {
+  font-size: 0.8571rem;
+  color: #333;
+  font-family: Rubik-Regular, Arial, Helvetica, sans-serif;
+}
+
+#fs12 {
+  font-size: 1rem;
+  color: #333;
+  font-family: "Rubik-Regular", Rubik-Regular, Arial, Helvetica, sans-serif;
+}
+
+.fs12zz {
+  font-size: 1rem;
+  color: #333;
+  font-family: "Rubik-Regular", Rubik-Regular, Arial, Helvetica, sans-serif;
+}
+
+#fs13 {
+  font-size: 1.714rem;
+  color: #333;
+  font-family: "Rubik-Medium", Rubik-Medium, Arial, Helvetica, sans-serif;
+}
+
+.fs13 {
+  font-size: 1.714rem;
+  color: #333;
+  font-family: "Rubik-Medium", Rubik-Medium, Arial, Helvetica, sans-serif;
+}
+
+#fs14 {
+  font-size: 1.15rem;
+
+  font-family: Rubik-Medium, Arial, Helvetica, sans-serif;
+}
+
+.fs14 {
+  font-size: 1rem;
+  color: #333;
+  font-family: Rubik-Medium, Arial, Helvetica, sans-serif;
+}
+
+#ic1 {
+  font-size: 16px;
+  color: #d3d3d3;
+}
+
+.ic1 {
+  font-size: 16px;
+  color: #d3d3d3;
+}
+
+#na:hover {
+  color: blue;
+}
+
+.icon-holder {
+  width: 42px;
+  height: 42px;
+  text-align: center;
+  padding-top: 1.2%;
+  vertical-align: middle;
+  background: #f5f5f5;
+}
+
+.box4 {
+  color: #666;
+  background: #f5f5f5;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  font-size: 1.714rem;
+  margin-left: 1.7px;
+  margin-right: 1.7px;
+}
+
+.promobox {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  border: 1px dashed #02cb66;
+  padding: 3px 10px;
+  color: #02cb66;
+  font-size: 12px;
+  font-family: Rubik-Medium;
+}

@@ -1,0 +1,60 @@
+#box {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+}
+
+.box {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+}
+
+#box3 {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding: 1.143rem 1.214rem;
+}
+
+#box2 {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding-top: 1.143rem;
+  padding-bottom: 1.143rem;
+}
+
+.box2 {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #c8c8c8;
+  padding-top: 1.143rem;
+  padding-bottom: 1.143rem;
+}
+
+#fs12 {
+  font-size: 0.847rem;
+  color: #333;
+  font-family: Rubik-Medium;
+  padding: 0;
+}
+
+.fs12 {
+  font-size: 0.847rem;
+  color: #333;
+  font-family: Rubik-Medium;
+  padding: 0;
+}
+
+#fs13 {
+  font-size: 0.7857rem;
+  color: #333;
+  font-family: Rubik-Regular, Arial, Helvetica, sans-serif;
+}
+
+.fs1z {
+  font-size: 0.7857rem;
+  color: #333;
+  font-family: Rubik-Regular, Arial, Helvetica, sans-serif;
+}
